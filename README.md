@@ -8,3 +8,13 @@ This repo serves three purposes:
 For the real readme see README.txt
 
 Building FTE can be a bit tricky, if docker is your thing try the [fte-compiler repo](https://github.com/FortressOne/fte-compiler).
+
+
+## Get latest code
+
+```
+git svn rebase
+git rebase
+```
+
+Note: don't pull, it messes things up.
